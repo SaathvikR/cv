@@ -1,0 +1,99 @@
+
+body {
+    background-color: lightcyan;
+    margin: 0;
+}    
+  
+.Heading {
+    color: green;
+    background-color: goldenrod;
+    padding: 50px 50px;
+
+    
+}
+
+.main {
+    color: green;
+}
+.Bottom {
+    color: green;
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+
+h1{
+    font-family: "Baloo"
+    
+}
+h2{
+    font-family: "Roboto"
+}
+
+a:visited {
+    color: pink;
+    text-decoration: none;
+  }
+
+a {
+    
+    color: yellow;
+    padding: 20px 20px;
+    text-decoration: none;
+   
+  }
+  a:hover {
+    background-color: #555;
+  }
+  
+  a:active {
+    background-color: black;
+  }
+  
+  a:visited {
+    background-color: #ccc;
+  }
+  hr.new3 {
+    border-top: 1px dotted red;
+  }
+  hr.new2 {
+    border-top: 1px dashed red;
+  }
+
+  .image {
+    position: absolute;
+    right: 50;
+    margin-right: auto;
+     border: 2px solid red;
+  border-radius: 50px 20px;
+  }
+
+  .languages {
+    column-count: 2;
+    float:inline-end
+    
+  }
+  
+  .experience {
+    column-count: 2;
+    float:inline-end
+  }
+  .skills {
+    column-count: 2;
+    float:inline-end
+  }
+
+  .copy {
+    text-align: center;
+
+  }
+
+  .contact {
+   color: lightblue;
+   font-family: "Baloo"
+
+  }
+
+  .email {
+    column-count: 2;
+    float:inline-end
+  }
